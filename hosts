@@ -1,0 +1,4 @@
+[ubuntu]
+54.174.35.198 ansible_user=ubuntu
+52.90.230.36 ansible_user=ubuntu
+54.86.84.111 ansible_user=ec2-user
